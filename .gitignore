@@ -99,4 +99,6 @@ fabric.properties
 .env
  **/__pycache__/
 goodreads/__pycache__/
-
+common/__pychache__/
+users/__pychace__/
+books/__pycache__/
